@@ -1,0 +1,9 @@
+{
+    "name": "inputBlue",
+    "type": "light",
+    "colors": {
+        "input.background": "#0000ff"
+    },
+
+    "tokenColors": []
+}

@@ -1,0 +1,22 @@
+{
+	"name": "blue-input-theme",
+	"publisher": "lopesc",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Input Blue Light",
+				"uiTheme": "vs",
+				"path": "./blue-input.json"
+			},
+			{
+				"label": "Input Blue Dark",
+				"uiTheme": "vs-dark",
+				"path": "./blue-input-dark.json"
+			}
+		]
+	}
+}
